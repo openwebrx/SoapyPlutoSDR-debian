@@ -1,3 +1,9 @@
+soapyplutosdr (0.2.1-1+owrx1) UNRELEASE; urgency=low
+
+  * Update package names for SoapySDR 0.8
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sun, 22 Oct 2023 22:43:00 +0000
+
 soapyplutosdr (0.2.1-1) unstable; urgency=low
 
   * Release 0.2.1 (2021-01-23)
